@@ -64,7 +64,10 @@ It should be noted that a feature was added to the initial dataset using externa
 ## Repository Files Included
 
 - Apprentice Chef Data Dictionary (created by Professor Chase Kusterer)
+- Apprentice Chef Dataset (created by Professor Chase Kusterer)
+- Apprentice Chef Case Study PDF (created by Professor Chase Kusterer)
 - ELIZABETH_SCHOOLEY_A2_ANALYSIS (EDA, feature engineering, all classification models and Markdown process descriptions)
+
 
 
 ## Resources (Documentation and other links)
